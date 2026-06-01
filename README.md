@@ -35,3 +35,7 @@ AuraSIEM is a lightweight, visually striking SIEM (Security Information and Even
    http://localhost:8080
 
    Developed for educational purposes to demonstrate SIEM correlation principles and automated incident response. 🌸
+
+---
+### 💖 Credits & Acknowledgments
+Special thanks to brilliant (https://github.com/shadowport1609) for their , guidance, and inspiration during the development of this project! 
